@@ -1,0 +1,5 @@
+Shipment_ID,Carrier,Dispatch_Date,Shipping_Cost_EUR,Delivery_Status
+SHP-1001,DPD,2026-10-01,5.50,Delivered
+SHP-1002,DHL,2026-10-01,8.20,In Transit
+SHP-1003,Omniva,2026-10-02,3.80,Delivered
+SHP-1004,DPD,2026-10-02,5.50,Exception
